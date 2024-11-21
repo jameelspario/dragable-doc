@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 
-import 'custom_tooltip.dart';
+import 'custom_tooltip/custom_tooltip.dart';
 import 'reorderble_wrap/reorderable_wrap.dart';
 
 /// Entrypoint of the application.
 void main() {
   runApp(const MyApp());
-  // runApp(MaterialApp(home:  DraggableMenu()));
-  // runApp( MaterialApp(home: Scaffold(body: DragTargetDetailsExample())));
 }
 
 /// [Widget] building the [MaterialApp].
