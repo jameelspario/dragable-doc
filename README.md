@@ -6,6 +6,6 @@ A new Flutter project.
 
 ![doc gif](images/image2.gif)
 
-#### visit following link to play live demo
+#### visit following link to play with live demo
 
 [link](https://jameelspario.github.io/dock/)
